@@ -8,6 +8,7 @@ x = Number(x);
 y = String(y);
 z = Boolean(z);
 //adding some new stuff
+//even more new stuff
 console.log(x, typeof x);
 console.log(y, typeof y);
 console.log(z, typeof z);
